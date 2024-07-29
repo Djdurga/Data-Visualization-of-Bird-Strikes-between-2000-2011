@@ -93,12 +93,5 @@ The provided Python code snippet helps you get started with the analysis:
 - **Exploratory Data Analysis (EDA):** Perform initial visualizations to understand the data.
 - **Detailed Analysis:** Analyze specific aspects such as yearly trends, top airlines, top airports, costs, time of occurrence, altitudes, phases of flight, and impact on flights.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to the FAA for providing the dataset.
-- Tools and libraries used include Python, Tableau, and Power BI.
 
